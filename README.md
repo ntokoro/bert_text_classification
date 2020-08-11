@@ -47,6 +47,8 @@ Remember to choose the appropriate tokenizer for the model you are using.
 
 ![](/img/tokenizer.PNG)
 
+The data were split 80:20 training to testing.
+
 ## Results
 
 We can see the model performs quite well even after just 4 epochs of training.
