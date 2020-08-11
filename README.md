@@ -54,8 +54,3 @@ The data were split 80:20 training to testing.
 We can see the model performs quite well even after just 4 epochs of training.
 
 ![](/img/test_res.PNG)
-
-That being said, the results of the model predictions on the training data suggests overfitting.
-
-![](/img/train_res.PNG)
-
