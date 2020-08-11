@@ -35,7 +35,7 @@ Age label | Meaning
 8 | >=40
 9 | >=65
 
-The data were labeled by two annotators, 'Z' and 'N'. For this demo, we will be training the model to predict the gender of the patient based on Z's labels.
+The data were labeled by two annotators, 'Z' and 'N' (me). For this demo, we will be training the model to predict the gender of the patient based on Z's labels since the two annotators were in 99% agreement for gender.
 
 ## Model and Training
 
