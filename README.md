@@ -27,15 +27,8 @@ Age label | Meaning
 0 | Unknown
 1 | <18
 2 | >=18 & <40
-3 | <40
-4 | >=40 & <65
-5 | >=18 & <65
-6 | <65
-7 | >=18
-8 | >=40
-9 | >=65
-
-The data were labeled by two annotators, 'Z' and 'N' (me). For this demo, we will be training the model to predict the gender of the patient based on Z's labels since the two annotators were in 99% agreement for gender.
+3 | >=40 & <65
+4 | >=65
 
 ## Model and Training
 
